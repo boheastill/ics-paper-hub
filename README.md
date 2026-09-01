@@ -124,3 +124,7 @@ curl -X POST http://127.0.0.1:3000/api/tasks/create \
 
 ## 📄 License
 MIT License.
+
+---
+
+**Author**: [Bohea](https://boheastill.com) — independent industrial software engineer (Shenzhen). Operator HMIs · device integration · machine data into your customer's ERP. More runnable demos & engineering notes on the site.
