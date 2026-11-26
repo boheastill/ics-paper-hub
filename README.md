@@ -127,4 +127,4 @@ MIT License.
 
 ---
 
-**Author**: [Bohea](https://boheastill.com) — independent industrial software engineer (Shenzhen). Operator HMIs · device integration · machine data into your customer's ERP. More runnable demos & engineering notes on the site.
+*Built by [Bohea](https://boheastill.com/?r=gh-paper-hub) ([hi@boheastill.com](mailto:hi@boheastill.com)) — independent engineer exploring physical↔digital workflows & industrial integration.*
